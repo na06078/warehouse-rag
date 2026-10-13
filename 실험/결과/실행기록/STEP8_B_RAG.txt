@@ -1,0 +1,13 @@
+임베딩 모델 불러오는 중…(첫 실행은 다운로드)
+🔎 검색 결과
+  WH-011  0.663  순환재고조사
+  WH-007  0.627  ABC 분석
+  WH-004  0.518  재고수량 결정
+💬 답변
+A등급 품목은 월 1회 조사합니다. [WH-011]
+📚 근거 (LLM에게 넘긴 자료 · ✓ = 답변에 ID가 표시된 자료)
+  ✓ WH-011  순환재고조사  docs/sop.md#순환재고조사
+    WH-007  ABC 분석  https://ko.wikipedia.org/wiki/ABC_%EB%B6%84%EC%84%9D
+    WH-004  재고수량 결정  https://ko.wikipedia.org/wiki/%EC%9E%AC%EA%B3%A0%EA%B4%80%EB%A6%AC
+🧠 모델 gemma-4-12B-it-QAT-Q4_0.gguf · 입력 762토큰 · 출력 20토큰 · 생각 내용 0자
+⏱ 검색 1.5초 · 답변 17.6초
