@@ -1,0 +1,7 @@
+# npm install로 언제든 다시 받을 수 있는 라이브러리 폴더
+node_modules/
+
+# 비밀값 파일 (사용하지 않지만 실수 방지)
+.env
+.env.*
+!.env.example

@@ -1,0 +1,7 @@
+{
+  "name": "warehouse-rag",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "물류창고 재고 조사 안내 챗봇 (로컬 RAG, Node.js CLI)"
+}
